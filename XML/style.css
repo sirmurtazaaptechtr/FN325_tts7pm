@@ -1,0 +1,7 @@
+table tbody {
+    counter-reset: cnt;
+}
+table tbody tr td:first-child::before {
+    counter-increment: cnt;
+    content: counter(cnt);
+}

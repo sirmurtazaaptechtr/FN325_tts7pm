@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+<students>
+   <student>
+      <name>Muzamil Ali</name>
+      <email>muzamilali@gmail.com</email>
+      <dob>22-Oct-2000</dob>
+      <gender>Male</gender>
+      <contact>0317-2551906</contact>
+   </student>
+   <student>
+      <name>Abdullah Shoaib</name>
+      <email>abdullahshoaib058@gmail.com</email>
+      <dob>05-Nov-2005</dob>
+      <gender>Male</gender>
+      <contact>0309-0241497</contact>
+   </student>
+   <student>
+      <name>Muhammad Anas</name>
+      <email>anasferoze15@gmail.com</email>
+      <dob>15-Feb-2004</dob>
+      <gender>Male</gender>
+      <contact>0330-2853326</contact>
+   </student>
+   <student>
+      <name>Muhammad Ahmed</name>
+      <email>ahmednaviwala2003@gmail.com</email>
+      <dob>18-Sep-2003</dob>
+      <gender>Male</gender>
+      <contact>0330-2859787</contact>
+   </student>
+   <student>
+      <name>Huzaifa Musani</name>
+      <email>huzaifaanis123@gmail.com</email>
+      <dob>12-Mar-2003</dob>
+      <gender>Male</gender>
+      <contact>0334-1686224</contact>
+   </student>
+</students>
